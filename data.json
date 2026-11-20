@@ -1,0 +1,29 @@
+{
+  "featuredMatch": {
+    "team1": "GT",
+    "team2": "SRH",
+    "venue": "Narendra Modi Stadium",
+    "time": "7:30 PM"
+  },
+
+  "stats": {
+    "matches": 1095,
+    "teams": 10,
+    "sixes": 42000,
+    "highestScore": 287
+  },
+
+  "pointsTable": [
+
+    {"team":"GT","wins":10},
+
+    {"team":"SRH","wins":9},
+
+    {"team":"RCB","wins":8},
+
+    {"team":"MI","wins":7},
+
+    {"team":"CSK","wins":7}
+
+  ]
+}
